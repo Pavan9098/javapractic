@@ -8,6 +8,7 @@ public class Main {
         System.out.println(Arrays.toString(p));
         change(p);
         System.out.println(Arrays.toString(p));
+        System.out.println("hello world");
     }
     static void change(int[] arr){
         arr[0]=33;
